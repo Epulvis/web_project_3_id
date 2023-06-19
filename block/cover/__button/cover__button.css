@@ -1,0 +1,23 @@
+.cover__button {
+    background: #0278fe;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    margin: 32px 0 0;
+    padding: 13px 20px;
+}
+
+.cover__button:hover {
+    background: #0063d2;
+}
+
+@media screen and (max-width: 568px) {
+    .cover__button {
+        margin: 16px 0 0;
+    }
+}

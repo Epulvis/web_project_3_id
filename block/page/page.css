@@ -1,0 +1,11 @@
+.page {
+    max-width: 1280px;
+    min-width: 320px;
+    background: #2A2C2F;
+    color: #fff;
+    display: grid;
+    place-items: center;
+    font-family: 'Inter var', sans-serif;
+    grid-template-rows: repeat(5, max-content);
+    width: fit-content;
+}
