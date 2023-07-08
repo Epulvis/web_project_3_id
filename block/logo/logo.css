@@ -1,6 +1,11 @@
-@media screen and (max-width: 768px) {
-    .logo {
-        width: 200px;
-    }
+.logo {
+    width: 200px;
+    margin: 1.25rem 0 0;
+}
 
+@media screen and (min-width: 768px) {
+    .logo {
+        width: 270px;
+        margin: 2.12rem 0 0;
+    }
 }

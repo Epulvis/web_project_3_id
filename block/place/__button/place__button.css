@@ -6,26 +6,25 @@
     text-align: center;
     text-decoration: none;
     font-weight: 600;
-    font-size: 18px;
-    line-height: 22px;
-    width: max-content;
-    height: max-content;
+    font-size: 1.125rem;
+    line-height: normal;
     padding: 13px 20px;
-    color: white;
+    margin: 0 1rem;
+    height: max-content;
 }
 
 .place__button:hover {
     background: #0063d2;
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (min-width: 768px) {
     .place__button {
-        margin: 0 16px;
+        margin: 0;
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (min-width: 360px) {
     .place__button {
-        width: auto;
+        width: 18rem;
     }
 }

@@ -1,17 +1,10 @@
 .place__artist-heading {
-    display: block;
-    font-size: 12px;
-    line-height: 15px;
-    letter-spacing: 0.12em;
-    color: #aaaaaa;
+    color: #AAA;
+    font-family: Inter;
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.09rem;
     text-transform: uppercase;
-    margin-bottom: 8px;
-}
-
-@media screen and (max-width: 568px) {
-    .place__artist-heading {
-        margin-bottom: 12px;
-        line-height: 15px;
-        letter-spacing: 0.2em;
-    }
 }

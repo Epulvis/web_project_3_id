@@ -4,21 +4,8 @@
 @import url(./__title/cover__title.css);
 
 .cover {
-    padding: 46px 48px;
     margin: 0 auto;
     width: 100%;
     box-sizing: border-box;
     max-width: 1184px;
-}
-
-@media screen and (max-width: 1024px) {
-    .cover {
-        padding: 44px 0 46px;
-    }
-}
-
-@media screen and (max-width: 640px) {
-    .cover {
-        padding: 32px 0 6px;
-    }
 }

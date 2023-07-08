@@ -1,16 +1,15 @@
 .place__artist {
     grid-area: artist;
-    align-self: end;
+    display: grid;
+    margin: 0 1rem;
+    gap: 8px;
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (min-width: 768px) {
     .place__artist {
-        align-self: auto;
-    }
-}
-
-@media screen and (max-width: 568px) {
-    .place__artist {
-        margin: 0 16px;
+        margin: 0;
+        gap: 0.5rem;
+        align-items: end;
+        align-content: end;
     }
 }
