@@ -1,9 +1,3 @@
-@import url(./__image/place__image.css);
-@import url(./__artist/place__artist.css);
-@import url(./__button/place__button.css);
-@import url(./__description/place__description.css);
-@import url(./__title/place__title.css);
-
 .place {
     display: grid;
     grid-template-areas:
@@ -31,7 +25,3 @@
         margin: 0 auto;
     }
 }
-
-@import url(./__artist-heading/place__artist-heading.css);
-@import url(./__artist-name/place__artist-name.css);
-@import url(./__paragraph/place__paragraph.css);

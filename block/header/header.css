@@ -2,5 +2,3 @@
     display: grid;
     place-items: center;
 }
-
-@import url(./__image/header__image.css);

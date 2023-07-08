@@ -4,8 +4,3 @@
     box-sizing: border-box;
     max-width: 1184px;
 }
-
-@import url(./__button/cover__button.css);
-@import url(./__item/cover__item.css);
-@import url(./__subtitle/cover__subtitle.css);
-@import url(./__title/cover__title.css);
