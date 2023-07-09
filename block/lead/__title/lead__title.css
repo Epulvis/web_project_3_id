@@ -4,9 +4,17 @@
     line-height: 2.75rem;
 }
 
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .lead__title {
+        padding: 0 1rem;
+    }
+}
+
 @media screen and (min-width: 768px) {
     .lead__title {
         font-size: 6rem;
         line-height: 6.25rem;
+        max-width: 793px;
+        margin: 0 auto;
     }
 }

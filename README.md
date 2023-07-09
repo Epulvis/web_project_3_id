@@ -6,6 +6,7 @@
 - technology
 - Techniques used
 - Figma
+- project
 
 **Description**
 
@@ -25,3 +26,6 @@ The project is about creating a one-page website where the design of a web page 
 **Figma**
 
 - [Link to figma](https://www.figma.com/file/t48BkKKEhP7K0mP5Vmr26O/Web_Brief_Sprint_3_ID-%7C-Dari-Tanah-Air-ke-Tanah-Air-%7C-desktop-%2B-mobile?type=design&node-id=1-2&t=4sYmqbR1MxiAox8F-0)
+
+**project**
+- [Link to project](https://epulvis.github.io/web_project_3_id/)
